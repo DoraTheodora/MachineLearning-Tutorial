@@ -6,10 +6,12 @@
     Institute: Institute of Technology Carlow
     Year:      2020
 
-### This is tutorial focuses on various preprocessing data tehniques and algorithms
-#### Pre-processing data methods:
-    - cleaning data
-    - data inegration
-    - data reduction
-
-#### Algorithms:
+#### Machine Learning Algorithms:
+    Latent Dirichlet Allocation (LDA)
+    Convolutional Neural Network
+    Decision Tree
+    Random Forest
+    Reinforcement Learning and Deep Neural Network
+    
+    
+ ##### This tutorial was developed in Python3, and can be run using Jupyter Notebook.
